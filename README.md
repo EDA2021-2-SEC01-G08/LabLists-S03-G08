@@ -1,5 +1,5 @@
 INTEGRANTES:
-Paula Daza Díaz 
+Paula Daza Díaz -
 Camilo Ramos Hernández
 
 #ISIS1225 - Estructura de un proyecto
